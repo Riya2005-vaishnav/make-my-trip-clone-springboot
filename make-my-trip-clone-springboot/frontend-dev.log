@@ -1,0 +1,16 @@
+
+> makemytour@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.1.4
+   - Local:        http://localhost:3000
+   - Network:      http://10.243.65.237:3000
+
+ ✓ Starting...
+ ✓ Ready in 3.8s
+ ○ Compiling / ...
+ ✓ Compiled / in 3s (646 modules)
+ ✓ Compiled in 384ms (646 modules)
+ GET / 200 in 5147ms
+ GET / 200 in 245ms
+ GET / 200 in 241ms
